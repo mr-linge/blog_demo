@@ -1,0 +1,4 @@
+2021-10-22 16:15:56.492  INFO 8236 --- [restartedMain] c.l.blog_demo.BlogDemoApplication        : Starting BlogDemoApplication using Java 1.8.0_131 on DESKTOP-I5V09IP with PID 8236 (C:\Users\lin\Desktop\blog_demo\target\classes started by lin in C:\Users\lin\Desktop\blog_demo)
+2021-10-22 16:15:56.493  INFO 8236 --- [restartedMain] c.l.blog_demo.BlogDemoApplication        : The following profiles are active: pro
+2021-10-22 16:15:58.939  WARN 8236 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-10-22 16:15:59.095  INFO 8236 --- [restartedMain] c.l.blog_demo.BlogDemoApplication        : Started BlogDemoApplication in 3.02 seconds (JVM running for 5.334)

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.linyuegx.blog_demo.BlogDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.22 s - in com.linyuegx.blog_demo.BlogDemoApplicationTests

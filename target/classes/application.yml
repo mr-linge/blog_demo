@@ -1,0 +1,14 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+
+
+comment:
+  avatar: https://picsum.photos/400/400
+
+message:
+  avatar: https://picsum.photos/400/400
+
+
